@@ -8,9 +8,9 @@ using Xamarin.Forms;
 
 namespace ECommerceApp3.Pages
 {
-    public partial class OdersPage : ContentPage
+    public partial class OrdersPage : ContentPage
     {
-        public OdersPage()
+        public OrdersPage()
         {
             InitializeComponent();
         }
